@@ -1,2 +1,2 @@
 # First-Model-deployment-Spam-Filter-using-Naive-bayes
-The Model uses Naive Bayes approach to predict spam or not, Libraries used sci kit-learn for model, stream-lit for deployment, pandas for data preprocessing. 
+The Model uses Naive Bayes approach to predict spam or not, Libraries used sci kit-learn for model, stream-lit for deployment, pandas for data preprocessing. This code first trains the Model from SMS spam collection dataset from kaggle hub the first model.ipynb generate model and vectorizer that are stored in model.pkl and vectorizer.pkl files.Then the file are again reloaded for deployment the model
